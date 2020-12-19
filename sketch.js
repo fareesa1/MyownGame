@@ -83,10 +83,10 @@ function setup(){
   playb.addImage(playbImg)
   playb.visible = false
   
-  plr = createSprite(275,350)
-  plr.scale = 2
-  plr.addImage(plrImg)
-  plr.visible = false
+//   plr = createSprite(275,350)
+//   plr.scale = 2
+//   plr.addImage(plrImg)
+//   plr.visible = false
  
 }
 
@@ -112,7 +112,7 @@ function draw(){
     playb.visible = false
     sceretbook.visible = false
     light.visible = false
-    plr.visible = true
+    //plr.visible = true
   }
 
 
